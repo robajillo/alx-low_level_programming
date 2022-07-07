@@ -1,1 +1,1 @@
-CREATED README.md FILe"
+# Variadic functions: functions that takes underfined number and type of arguments
